@@ -6,16 +6,6 @@
       "after": "images/DEM_Editing_3_after.png"
     },
     {
-      "id": "TD1",
-      "before": "images/TD1_before.JPG",
-      "after": "images/TD1_after.jpg"
-    },
-    {
-      "id": "Windang1",
-      "before": "images/Windang1_before.jpg",
-      "after": "images/Windang1_after.jpg"
-    },
-    {
       "id": "p1_rgb_dem_editing_1",
       "before": "images/p1_rgb_dem_editing_1_before.png",
       "after": "images/p1_rgb_dem_editing_1_after.png"
