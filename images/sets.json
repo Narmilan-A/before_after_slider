@@ -9,6 +9,11 @@
       "id": "p1_rgb_dem_editing_1",
       "before": "images/p1_rgb_dem_editing_1_before.png",
       "after": "images/p1_rgb_dem_editing_1_after.png"
+    },
+    {
+      "id": "rel_scan",
+      "before": "images/rel_scan_before.jpg",
+      "after": "images/rel_scan_after.jpg"
     }
   ]
 }
