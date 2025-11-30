@@ -1,6 +1,11 @@
 {
   "sets": [
     {
+      "id": "2_realityscan",
+      "before": "images/2_realityscan_before.png",
+      "after": "images/2_realityscan_after.png"
+    },
+    {
       "id": "DEM_Editing_3",
       "before": "images/DEM_Editing_3_before.png",
       "after": "images/DEM_Editing_3_after.png"
