@@ -1,6 +1,11 @@
 {
   "sets": [
     {
+      "id": "1_realityscan",
+      "before": "images/1_realityscan_before.jpg",
+      "after": "images/1_realityscan_after.jpg"
+    },
+    {
       "id": "2_realityscan",
       "before": "images/2_realityscan_before.png",
       "after": "images/2_realityscan_after.png"
