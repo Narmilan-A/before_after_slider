@@ -4,6 +4,21 @@
       "id": "ortho_f1",
       "before": "images/ortho_f1_before.png",
       "after": "images/ortho_f1_after.png"
+    },
+    {
+      "id": "ortho_zoom_1_f1",
+      "before": "images/ortho_zoom_1_f1_before.jpg",
+      "after": "images/ortho_zoom_1_f1_after.jpg"
+    },
+    {
+      "id": "ortho_zoom_2_f1",
+      "before": "images/ortho_zoom_2_f1_before.jpg",
+      "after": "images/ortho_zoom_2_f1_after.jpg"
+    },
+    {
+      "id": "ortho_zoom_3_f1",
+      "before": "images/ortho_zoom_3_f1_before.jpg",
+      "after": "images/ortho_zoom_3_f1_after.jpg"
     }
   ]
 }
