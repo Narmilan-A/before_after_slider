@@ -1,3 +1,9 @@
 {
-  "sets": []
+  "sets": [
+    {
+      "id": "ortho_f1",
+      "before": "images/ortho_f1_before.png",
+      "after": "images/ortho_f1_after.png"
+    }
+  ]
 }
