@@ -34,6 +34,11 @@
       "id": "wilcox_cats_1",
       "before": "images/wilcox_cats_1_before.png",
       "after": "images/wilcox_cats_1_after.png"
+    },
+    {
+      "id": "wilcox_cats_2",
+      "before": "images/wilcox_cats_2_before.png",
+      "after": "images/wilcox_cats_2_after.png"
     }
   ]
 }
