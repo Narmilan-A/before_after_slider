@@ -29,6 +29,11 @@
       "id": "ortho_zoom_5_f1",
       "before": "images/ortho_zoom_5_f1_before.jpg",
       "after": "images/ortho_zoom_5_f1_after.jpg"
+    },
+    {
+      "id": "wilcox_cats_1",
+      "before": "images/wilcox_cats_1_before.png",
+      "after": "images/wilcox_cats_1_after.png"
     }
   ]
 }
