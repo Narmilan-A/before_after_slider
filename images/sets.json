@@ -1,49 +1,19 @@
 {
   "sets": [
     {
-      "id": "ortho_f1",
-      "before": "images/ortho_f1_before.png",
-      "after": "images/ortho_f1_after.png"
+      "id": "1",
+      "before": "images/1_before.png",
+      "after": "images/1_after.png"
     },
     {
-      "id": "ortho_zoom_1_f1",
-      "before": "images/ortho_zoom_1_f1_before.jpg",
-      "after": "images/ortho_zoom_1_f1_after.jpg"
+      "id": "2",
+      "before": "images/2_before.png",
+      "after": "images/2_after.png"
     },
     {
-      "id": "ortho_zoom_2_f1",
-      "before": "images/ortho_zoom_2_f1_before.jpg",
-      "after": "images/ortho_zoom_2_f1_after.jpg"
-    },
-    {
-      "id": "ortho_zoom_3_f1",
-      "before": "images/ortho_zoom_3_f1_before.jpg",
-      "after": "images/ortho_zoom_3_f1_after.jpg"
-    },
-    {
-      "id": "ortho_zoom_4_f1",
-      "before": "images/ortho_zoom_4_f1_before.jpg",
-      "after": "images/ortho_zoom_4_f1_after.jpg"
-    },
-    {
-      "id": "ortho_zoom_5_f1",
-      "before": "images/ortho_zoom_5_f1_before.jpg",
-      "after": "images/ortho_zoom_5_f1_after.jpg"
-    },
-    {
-      "id": "wilcox_cats_1",
-      "before": "images/wilcox_cats_1_before.png",
-      "after": "images/wilcox_cats_1_after.png"
-    },
-    {
-      "id": "wilcox_cats_2",
-      "before": "images/wilcox_cats_2_before.png",
-      "after": "images/wilcox_cats_2_after.png"
-    },
-    {
-      "id": "wilcox_cats_3",
-      "before": "images/wilcox_cats_3_before.png",
-      "after": "images/wilcox_cats_3_after.png"
+      "id": "3",
+      "before": "images/3_before.png",
+      "after": "images/3_after.png"
     }
   ]
 }
